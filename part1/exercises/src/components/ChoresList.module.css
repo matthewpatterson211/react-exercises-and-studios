@@ -1,5 +1,9 @@
 .choresText {
-   color: black;
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 1.33vw;
+   color: blue;
+   text-decoration: underline;
+   font-style: italic;
 }
 
 .choresHeading {
